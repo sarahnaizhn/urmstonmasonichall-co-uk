@@ -1,1 +1,3 @@
 /index.php / 301
+/united-kingdom-gb/* /lizaro-gb/:splat 301
+/en-GB/* /lizaro-gb/:splat 301
