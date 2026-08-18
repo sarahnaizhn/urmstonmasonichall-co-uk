@@ -1,3 +1,5 @@
 /index.php / 301
-/united-kingdom-gb/* /lizaro-gb/:splat 301
-/en-GB/* /lizaro-gb/:splat 301
+/lizaro-casino-gb/* /lizaro-casino-uk-gb/:splat 301
+/lizaro-gb/* /lizaro-casino-uk-gb/:splat 301
+/united-kingdom-gb/* /lizaro-casino-uk-gb/:splat 301
+/en-GB/* /lizaro-casino-uk-gb/:splat 301
