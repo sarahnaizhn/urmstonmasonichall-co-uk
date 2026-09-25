@@ -1,6 +1,10 @@
 /index.php / 301
-/sitemap.xml / 301
-/lizaro-casino-gb/* /lizaro-casino-uk-gb/:splat 301
-/lizaro-gb/* /lizaro-casino-uk-gb/:splat 301
-/united-kingdom-gb/* /lizaro-casino-uk-gb/:splat 301
-/en-GB/* /lizaro-casino-uk-gb/:splat 301
+/lizaro-reviews-gb/* /casino-lizaro-gb/:splat 301
+/lizaro-online-casino-gb/* /casino-lizaro-gb/:splat 301
+/lizaro-slots-gb/* /casino-lizaro-gb/:splat 301
+/lizaro-casino-review-gb/* /casino-lizaro-gb/:splat 301
+/lizaro-casino-uk-gb/* /casino-lizaro-gb/:splat 301
+/lizaro-casino-gb/* /casino-lizaro-gb/:splat 301
+/lizaro-gb/* /casino-lizaro-gb/:splat 301
+/united-kingdom-gb/* /casino-lizaro-gb/:splat 301
+/en-GB/* /casino-lizaro-gb/:splat 301
